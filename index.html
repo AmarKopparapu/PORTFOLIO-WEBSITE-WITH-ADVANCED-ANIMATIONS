@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio</title>
+  <!-- Link to the CSS file -->
+  <link rel="stylesheet" href="style.css">
+  <!-- Include GSAP & THREE.JS Libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+  </header>
+
+  <!-- Canvas for THREE.JS animation (acts as a dynamic background) -->
+  <canvas id="three-canvas"></canvas>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Welcome to my portfolio website. I am a passionate developer working with modern web technologies. This site is built with modern CSS animations, GSAP, and THREE.JS to give you an engaging experience.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+      <h3>Project One</h3>
+      <p>A brief description of project one goes here.</p>
+    </div>
+    <div class="project">
+      <h3>Project Two</h3>
+      <p>A brief description of project two goes here.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contact-form">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <!-- Include custom JS file -->
+  <script src="main.js"></script>
+</body>
+</html>

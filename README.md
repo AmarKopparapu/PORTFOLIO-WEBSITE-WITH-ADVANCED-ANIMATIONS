@@ -34,3 +34,6 @@ After completing the design and development, I focused on testing the website to
 The completed portfolio website was a visually appealing and highly interactive platform that effectively showcased my skills, projects, and achievements. It reflected my technical proficiency and creativity, leaving a lasting impression on visitors. The use of advanced animations and 3D elements set the website apart, demonstrating my ability to leverage modern web technologies.
 
 Receiving the completion certificate at the internship’s end marked a significant milestone in my professional journey. This project provided invaluable hands-on experience in building innovative web solutions and deepened my understanding of animation techniques and design principles. Overall, the portfolio website stands as a testament to my dedication and expertise in web development.
+
+![Image](https://github.com/user-attachments/assets/3543dd74-aae6-4e87-98d7-09bc6b9d78ce)
+![Image](https://github.com/user-attachments/assets/b3a622dd-fad3-442f-8574-8aa51228b67e)
